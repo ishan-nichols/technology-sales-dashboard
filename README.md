@@ -1,2 +1,2 @@
 # technology-sales-dashboard
-A dashboard made for company leadership who wants to see all their data at once.
+A dashboard designed for company leadership to view all their data simultaneously.
